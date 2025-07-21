@@ -1,0 +1,8 @@
+| Unit | Description                | Example            |
+| ---- | -------------------------- | ------------------ |
+| `px` | Pixels – most common unit  | `width: 200px;`    |
+| `in` | Inches – 1in = 96px        | `width: 2in;`      |
+| `cm` | Centimeters – 1cm ≈ 37.8px | `height: 5cm;`     |
+| `mm` | Millimeters – 10mm = 1cm   | `margin: 10mm;`    |
+| `pt` | Points – 1pt = 1/72 inch   | `font-size: 12pt;` |
+| `pc` | Picas – 1pc = 12pt         | `width: 2pc;`      |
